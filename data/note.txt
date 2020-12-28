@@ -1,0 +1,6 @@
+24 Dec 2020:
+usagov_bitly data (used as the first example in the book) from http://1usagov.measuredvoice.com/2012/
+
+downloaded via browser (urlib3 and wget could not find address from the url)
+uploaded and gzip -d usagov_bitly
+
